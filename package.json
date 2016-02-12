@@ -1,0 +1,22 @@
+{
+  "name": "monkey_udp",
+  "version": "0.0.1",
+  "description": "Build hex udp package accroding template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluenergy/monkey_udp.git"
+  },
+  "keywords": [
+    "udp"
+  ],
+  "author": "xinyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluenergy/monkey_udp/issues"
+  },
+  "homepage": "https://github.com/bluenergy/monkey_udp#readme"
+}
